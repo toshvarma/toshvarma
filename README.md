@@ -1,6 +1,6 @@
 # Hi, I'm Tosh Varma 👋
 
-B.Sc. Web Development student at SRH Berlin University  
+Studying B.Sc. Web Development at SRH Berlin University  
 Focused on building clean, functional, and user-focused applications. Currently working on my own portfolio website.
 
 My primary area of expertise is **full-stack development**, and I’m continuously improving my skills across both frontend and backend technologies.
