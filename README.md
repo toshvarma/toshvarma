@@ -1,6 +1,6 @@
 # Hi, I'm Tosh Varma 👋
 
-B.Sc. Web Development student at SRH Berlin University. My professional background is in freelance and agency web design & development in India, including a long-term contract with **Noetic Meta Systems**, a digital marketing agency, building and designing websites for their clients.
+B.Sc. Web Development student at SRH Berlin University, and a Full Stack Intern at the Sudha Gopalakrishnan Brain Center, IIT Madras. My professional background is in freelance and agency web design & development in India, including a long-term contract with **Noetic Meta Systems**, a digital marketing agency, building and designing websites for their clients.
 
 My core focus is the design-to-code pipeline: I design in Figma and Adobe, then build the result myself in HTML, CSS, and JavaScript. Right now I'm extending that with AI integration (see COCO below) and building my personal portfolio site.
 
